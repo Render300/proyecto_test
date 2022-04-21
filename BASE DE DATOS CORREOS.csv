@@ -1,0 +1,159 @@
+﻿Department,Display name,First name,Last name,Mobile Phone,Phone number,Proxy addresses,User principal name
+,24x7,24x7,EZTravel,,,SMTP:24x7@eztravel.mx+smtp:24x7@EZTravel.onmicrosoft.com+smtp:24x7@eztravel.com.mx,24x7@eztravel.mx
+,"Aguirre, Ana",Ana,Aguirre,,,SMTP:sofia.aguirre@eztravel.mx+smtp:ana.aguirre@eztravel.mx,sofia.aguirre@eztravel.mx
+,"Alatorre, Roberto",Roberto,Alatorre,,,smtp:Roberto.alatorre@EZTravel.onmicrosoft.com+SMTP:Roberto.alatorre@eztravel.mx,Roberto.alatorre@eztravel.mx
+,Alerts,Alerts,Eztravel,,,SMTP:alerts@eztravel.mx+smtp:alerts@EZTravel.onmicrosoft.com,alerts@eztravel.mx
+,"Alvarez, Monica",Monica,Alvarez,,,SMTP:monica.alvarez@eztravel.mx+smtp:monica.alvarez@EZTravel.onmicrosoft.com,monica.alvarez@eztravel.mx
+Personal Travel,"Amaya, Ana",Ana,Amaya,,6622600580,smtp:ana.amaya@eztravel.mx+SMTP:operaciones5@eztravel.mx+smtp:operaciones5@eztravel.com.mx,operaciones5@eztravel.mx
+Personal Travel,"Armenta, Jesus",Jesus,Armenta,,6622600580,smtp:jesus.armenta@eztravel.mx+SMTP:operaciones4@eztravel.mx,operaciones4@eztravel.mx
+,"Baca, Cristina",Cristina,Baca,,,smtp:cristina.baca@EZTravel.onmicrosoft.com+smtp:cristina.baca@eztravel.mx+SMTP:cristina.baca@eztraveluxe.com,cristina.baca@eztraveluxe.com
+,"Barraza, Javier",Javier,Barraza,,,SMTP:Javier.Barraza@eztraveluxe.com+smtp:Javier.Barraza@EZTravel.onmicrosoft.com,Javier.Barraza@eztraveluxe.com
+,"Campos, Jose",Jose,Campos,,,smtp:jose.campos@eztravel.mx+SMTP:operaciones13@eztravel.mx+smtp:operaciones13@EZTravel.onmicrosoft.com+smtp:operaciones13@eztravel.com.mx,operaciones13@eztravel.mx
+,"Canizales, Liliana",Liliana,Canizales,,,SMTP:operaciones22@eztravel.mx,operaciones22@eztravel.mx
+,Capacitacion 1,Capacitacion,1,,,SMTP:capacitacion1@eztravel.mx,capacitacion1@eztravel.mx
+Personal Travel,"Cárdenas, Diego",Diego,Cardenas,,6622600580,smtp:diego.cardenas@eztravel.mx+SMTP:operaciones3@eztravel.mx+smtp:operaciones3@EZTravel.onmicrosoft.com,operaciones3@eztravel.mx
+,"Cárdenas, Monica",Mónica,Cárdenas,,,smtp:monica.cardenas@EZTravel.onmicrosoft.com+SMTP:monica.cardenas@eztraveluxe.com,monica.cardenas@eztraveluxe.com
+,"Carpena, Erika",Erika,Carpena,,,SMTP:operaciones15@eztravel.mx+smtp:operaciones15@EZTravel.onmicrosoft.com+smtp:operaciones15@eztravel.com.mx,operaciones15@eztravel.mx
+,"Castellanos, Rafael",Rafael,Castellanos,,,SMTP:rafa.castellanos@eztravel.mx+smtp:rafa.castellanos@EZTravel.onmicrosoft.com,rafa.castellanos@eztravel.mx
+,"Castillo, Karla",Karla,Castillo Arriola,,,smtp:karla.castillo@eztravel.mx+SMTP:karla.castillo@eztraveluxe.com+smtp:karla.castillo@EZTravel.onmicrosoft.com,karla.castillo@eztraveluxe.com
+,"Cazares, Carolina",Carolina,Cazares Gonzalez,,6622600580,SMTP:carolina.cazares@eztraveluxe.com+smtp:carolina.cazares@eztravel.mx+smtp:carolina.cazares@EZTravel.onmicrosoft.com,carolina.cazares@eztraveluxe.com
+,"Chavez, Cinthya",Cinthya,Chavez,,,smtp:cchavez@EZTravel.onmicrosoft.com+SMTP:cinthya.chavez@eztravel.mx+smtp:cchavez@eztravel.mx+smtp:cchavez@eztravel.com.mx,cinthya.chavez@eztravel.mx
+,"Chavez, Marcela",Marcela,Chavez,,,smtp:marcela.chavez@eztravel.com.mx+smtp:operaciones10@eztravel.mx+SMTP:marcela.chavez@eztravel.mx,marcela.chavez@eztravel.mx
+,"Ciulok, Giovanna",Giovanna,Ciulok,,,SMTP:talento2@eztravel.mx,talento2@eztravel.mx
+,Comercial 2,comercial,2,,,SMTP:comercial2@eztravel.mx+smtp:comercial2@EZTravel.onmicrosoft.com+smtp:comercial2@eztravel.com.mx,comercial2@eztravel.mx
+,Confirmaciones ez Travel,Confirmaciones,ez Travel,,,SMTP:confirmaciones@eztravel.mx+smtp:confirmaciones@EZTravel.onmicrosoft.com+smtp:confirmaciones@eztravel.com.mx,confirmaciones@eztravel.mx
+Administración de Finanzas,Contraloria2,Contraloria2,Contraloria,,6622600580,smtp:contraloria2@EZTravel.onmicrosoft.com+SMTP:contraloria2@eztravel.mx,contraloria2@eztravel.mx
+Trafico,"Corona, Hugo",Hugo,Corona,6624301596,6622600580,smtp:hugo.corona@eztravel.mx+SMTP:trafico6@eztravel.mx,trafico6@eztravel.mx
+Finanzas,"Correa, Marlen",Marlen,Correa,6624295765,6622600580,SMTP:ingresos1@eztravel.mx+smtp:ingresos1@EZTravel.onmicrosoft.com+smtp:marlen.correa@eztravel.mx+smtp:ingresos1@eztravel.com.mx,ingresos1@eztravel.mx
+Comercial ,"Cortes, Ana",Ana,Cortes,,6622600580,smtp:ana.cortes@eztravel.mx+smtp:cro2@EZTravel.onmicrosoft.com+SMTP:cro2@eztravel.mx,cro2@eztravel.mx
+Business Travel,"Cota, Victor",Victor,Cota,6623184670,6622600580,smtp:gsc1@eztravel.com.mx+smtp:victor.cota@eztravel.mx+SMTP:gsc1@eztravel.mx,gsc1@eztravel.mx
+,CRM EZTravel,CRM,EZTravel,,,SMTP:crm@ezmatic.mx+smtp:crm@EZTravel.onmicrosoft.com+smtp:crm@eztravel.com.mx,crm@ezmatic.mx
+,Dashboards,Dashboards,,,,SMTP:dashboards@eztravel.mx+smtp:dashboards@EZTravel.onmicrosoft.com+smtp:dashboards@eztravel.com.mx,dashboards@eztravel.mx
+IT,Debora Beltran,Debora,Beltran,6624762857,6622600580,smtp:debora.beltran@eztravel.mx+SMTP:tecnologia1@eztravel.mx+smtp:ricardo.curlango@eztravel.mx+smtp:adolfo.aguilar@eztravel.mx+smtp:tecnologia1@EZTravel.onmicrosoft.com+smtp:webadmin@eztravel.mx+smtp:admin@eztravel.mx+smtp:administrator@eztravel.mx+smtp:webmaster@eztravel.mx+smtp:administrador@eztravel.mx+smtp:tecnologia1@eztravel.com.mx,tecnologia1@eztravel.mx
+,"Del Valle, Vianey",Vianey,Del Valle,,,SMTP:vianey.delvalle@eztravel.mx+smtp:vianey.delvalle@EZTravel.onmicrosoft.com,vianey.delvalle@eztravel.mx
+Calidad y Auditoria,"Diaz, Ilse",Ilse,Diaz,6622333129,6622600580,smtp:ilse.diaz@eztravel.mx+SMTP:calidad5@eztravel.mx+smtp:calidad5@EZTravel.onmicrosoft.com,calidad5@eztravel.mx
+,Direccion EZ Travel,Direccion,EZ Travel,,,SMTP:direccion@eztravel.mx+smtp:direccion@eztravel.com.mx,direccion@eztravel.mx
+Finanzas ,"Dominguez, Juliana",Juliana,Dominguez,6624583862,6622600580,SMTP:egresos2@eztravel.mx+smtp:egresos2@EZTravel.onmicrosoft.com+smtp:juliana.dominguez@eztravel.mx+smtp:egresos2@eztravel.com.mx,egresos2@eztravel.mx
+Trafico,"Dominguez, Roberto",Roberto,Dominguez,,662,smtp:roberto.dominguez@eztravel.mx+SMTP:trafico1@eztravel.mx,trafico1@eztravel.mx
+,"Dorame, Fernando",Fernando,Dorame,,,SMTP:trafico2@eztravel.mx,trafico2@eztravel.mx
+,"Dueñas, Carlos",Carlos,Dueñas,,,SMTP:operaciones19@eztravel.mx,operaciones19@eztravel.mx
+,Egresos 3,Egresos,3,,,SMTP:egresos3@eztravel.mx,egresos3@eztravel.mx
+,"Encinas, Fernanda",Fernanda,Encinas,,,SMTP:cro1@eztravel.mx+smtp:cro1@eztravel.com.mx+smtp:fernanda.encinas@eztravel.mx,cro1@eztravel.mx
+Busisness Travel,"Encinas, Nayely",Encinas,Nayely,6624701325,6622600580,smtp:nayely.encinas@eztravel.mx+smtp:operaciones7@eztravel.com.mx+SMTP:operaciones7@eztravel.mx+smtp:virtuoso1@eztravel.mx+smtp:virtuoso1@eztravel.com.mx,operaciones7@eztravel.mx
+,EZ-Scanner,Scanner,Scanner,,,smtp:ezscanner@EZTravel.onmicrosoft.com+SMTP:ezscanner@eztravel.mx,ezscanner@eztravel.mx
+,EZ Travel Online,EZ Travel,Online,,,SMTP:online@eztravel.mx+smtp:online@EZTravel.onmicrosoft.com+smtp:online@eztravel.com.mx,online@eztravel.mx
+,EZ Travel Payments,EZ Travel,Payments,,,SMTP:payments@eztravel.mx+smtp:payments@EZTravel.onmicrosoft.com+smtp:payments@eztravel.com.mx,payments@eztravel.mx
+,EZ Travel Reservaciones,EZ Travel,Reservaciones,,,SMTP:reservaciones@eztravel.mx+smtp:reservaciones@eztravel.com.mx,reservaciones@eztravel.mx
+,Facturacion Electronica,Facturacion,Electronica,,,SMTP:fe@eztravel.mx,fe@eztravel.mx
+,Facturas EZ Travel,Facturas,EZ Travel,,,smtp:facturas@EZTravel.onmicrosoft.com+SMTP:facturas@eztravel.mx,facturas@eztravel.mx
+,FOM,FOM,,,,SMTP:fom@eztravel.mx+smtp:fom@EZTravel.onmicrosoft.com+smtp:gaby.tapia@eztravel.mx+smtp:gabriela.tapia@eztravel.mx,fom@eztravel.mx
+,"Gallardo, Rosa",Rosa,Gallardo,,,SMTP:comercial1@hotelspromexico.com+smtp:comercial19365@EZTravel.onmicrosoft.com+smtp:sales1@hotelspromexico.com,comercial1@hotelspromexico.com
+,"Galvan, Lucia",Lucia,Galvan,,,smtp:proveedores1@EZTravel.onmicrosoft.com+smtp:marketing1@EZTravel.onmicrosoft.com+smtp:maria.rogel@eztravel.mx+smtp:digital1@eztravel.com.mx+smtp:marketing1@eztravel.com.mx+smtp:marketing1@eztravel.mx+smtp:sdmpc@eztravel.mx+smtp:lucia.galvan@eztravel.mx+SMTP:sdma@eztravel.mx+smtp:sdmp@eztravel.mx,sdma@eztravel.mx
+,"Galvan, Lucia",Lucia,Galvan,,,smtp:sdmp@EZTravel.onmicrosoft.com+SMTP:sdma@hotelspromexico.com+smtp:sdmp@hotelspromexico.com,sdma@hotelspromexico.com
+,"Galvez, Carolina",Carolina,Galvez,,,SMTP:marketing3@eztravel.mx,marketing3@eztravel.mx
+,"Gamez, Jerry",Jerry,Gamez,,,SMTP:jerry.gamez@eztravel.mx+smtp:jerry.gamez@EZTravel.onmicrosoft.com,jerry.gamez@eztravel.mx
+,"Garcia, Leticia",Leticia,Garcia,,,SMTP:Leticia.Garcia@eztraveluxe.com+smtp:Leticia.Garcia@EZTravel.onmicrosoft.com,Leticia.Garcia@eztraveluxe.com
+,"Garcia, Melissa",Melissa,Garcia,,,SMTP:melissa.garcia@eztravel.mx,melissa.garcia@eztravel.mx
+Marketing ,"Garcia, Rosella",Rosella,Garcia,6623450334,6622600580,SMTP:marketing2@eztravel.mx+smtp:marketing2@EZTravel.onmicrosoft.com+smtp:rosella.garcia@eztravel.mx+smtp:marketing2@eztravel.com.mx,marketing2@eztravel.mx
+,"Garzon, Karen",Karen,Garzon,6623176955,6622600580,smtp:dsc@EZTravel.onmicrosoft.com+smtp:marian.garzon@eztravel.mx+smtp:karen.garzon@eztravel.mx+smtp:dsc@eztravel.com.mx+SMTP:dvgec@eztravel.mx+smtp:dsc@eztravel.mx,dvgec@eztravel.mx
+,"Garzon, Karen",Karen,Garzon,,,SMTP:dvgec@hotelspromexico.com+smtp:dsc@hotelspromexico.com,dvgec@hotelspromexico.com
+Calidad y Auditoria,Garzon. Nicole,Calidad,1,6623179560,6622600580,smtp:nicole.garzon@eztravel.mx+SMTP:calidad1@eztravel.mx,calidad1@eztravel.mx
+,"Gastelum, Marco",Marco,Gastelum,,,SMTP:marco.gastelum@eztraveluxe.com+smtp:marco.gastelum@EZTravel.onmicrosoft.com,marco.gastelum@eztraveluxe.com
+,"Gaxiola, Pily",Pily,Gaxiola,,,SMTP:Pily.Gaxiola@eztraveluxe.com+smtp:Pily.Gaxiola@EZTravel.onmicrosoft.com,Pily.Gaxiola@eztraveluxe.com
+,"Gonzalez, Carlos",Carlos,Gonzalez,,,SMTP:carlos.gonzalez@eztravel.mx,carlos.gonzalez@eztravel.mx
+,"Guerrero, Paola",Paola,Guerrero,,,SMTP:operaciones12@eztravel.mx+smtp:operaciones12@EZTravel.onmicrosoft.com+smtp:paola.guerrero@eztravel.mx+smtp:operaciones12@eztravel.com.mx,operaciones12@eztravel.mx
+,"Gutierrez, Luis",Luis,Gutierrez,,,SMTP:operaciones6@eztravel.mx+smtp:operaciones6@EZTravel.onmicrosoft.com+smtp:luis.gutierrez@eztravel.mx+smtp:operaciones6@eztravel.com.mx,operaciones6@eztravel.mx
+,"Gutierrez, Vladimir",Vladimir,Gutierrez,,,SMTP:vladimir.gutierrez@eztravel.mx,vladimir.gutierrez@eztravel.mx
+,"Harrison, Martha",Martha,Harrison,,,SMTP:martha.harrison@eztravel.mx+smtp:martha.harrison@EZTravel.onmicrosoft.com,martha.harrison@eztravel.mx
+,Help Desk,Help,Desk,,,smtp:helpdesk@EZTravel.onmicrosoft.com+SMTP:helpdesk@ezmatic.mx+smtp:helpdesk@eztravel.mx,helpdesk@ezmatic.mx
+,"Ibarra, Jessica",Jessica,Ibarra Armenta,,6622600580,smtp:jessica.ibarra@eztravel.mx+SMTP:asistentedireccion@eztravel.mx+smtp:asistentedireccion@EZTravel.onmicrosoft.com+smtp:asistentedireccion@eztravel.com.mx+smtp:karely.castro@eztravel.mx,asistentedireccion@eztravel.mx
+,"Larios, Livier",Livier,Larios,,,SMTP:Livier.Larios@eztraveluxe.com+smtp:Livier.Larios@EZTravel.onmicrosoft.com,Livier.Larios@eztraveluxe.com
+,"Lucero, Miriam",Miriam,Lucero,,,SMTP:sdvg@eztravel.mx,sdvg@eztravel.mx
+,"Lucero, Miriam",Miriam,Lucero,,,SMTP:sdbt@hotelspromexico.com,sdbt@hotelspromexico.com
+Servicios Generales,"Mada, Carlos",Carlos,Mada,6624294875,6622600580,SMTP:mensajeria1@eztravel.mx+smtp:mensajeria1@EZTravel.onmicrosoft.com+smtp:carlos.mada@eztravel.mx+smtp:mensajeria1@eztravel.com.mx,mensajeria1@eztravel.mx
+,"Maintfelt, Federico",federico,maintfelt,,,smtp:federico.mainfelt@EZTravel.onmicrosoft.com+SMTP:federico.mainfelt@eztravel.mx,federico.mainfelt@eztravel.mx
+,Marketing 4,Marketing,4,,,SMTP:marketing4@eztravel.mx,marketing4@eztravel.mx
+,Marketing 5,Marketing,5,,,SMTP:marketing5@eztravel.mx,marketing5@eztravel.mx
+Talento y Desarrollo,"Martínez, Karina",Karina,Martinez,6623177654,6622600580,smtp:karina.martinez@eztravel.mx+SMTP:talento1@eztravel.mx+smtp:talento1@EZTravel.onmicrosoft.com+smtp:talento1@eztravel.com.mx,talento1@eztravel.mx
+,"Matus, Sergio",Sergio,Matus,,,SMTP:tecnologia2@eztravel.mx+smtp:tecnologia2@EZTravel.onmicrosoft.com+smtp:sergio.matus@eztravel.mx+smtp:tecnologia2@eztravel.com.mx,tecnologia2@eztravel.mx
+Finanzas,"Matuz, Milagros",Milagros,Matuz,,6622600580,SMTP:ingresos2@eztravel.mx+smtp:ingresos2@EZTravel.onmicrosoft.com+smtp:milagros.matuz@eztravel.mx+smtp:ingresos2@eztravel.com.mx,ingresos2@eztravel.mx
+,"Mercado, Claudia",Claudia,Mercado,,,SMTP:claudia.mercado@eztravel.mx,claudia.mercado@eztravel.mx
+,"Mogollon, Elena",Elena,Mogollon,,,smtp:elena.mogollon@EZTravel.onmicrosoft.com+SMTP:elena.mogollon@eztraveluxe.com,elena.mogollon@eztraveluxe.com
+Trafico,"Monge, Elizabeth",Elizabeth,Monge,6621208901,6622600580,SMTP:ingresos3@eztravel.mx+smtp:ingresos3@EZTravel.onmicrosoft.com+smtp:elizabeth.monge@eztravel.mx+smtp:ingresos3@eztravel.com.mx,ingresos3@eztravel.mx
+,"Moreno, Alan",Alan,Moreno,,6622600580,SMTP:operaciones1@eztravel.mx,operaciones1@eztravel.mx
+,"Moreno, Lydia",Lydia,Moreno,,,SMTP:contabilidad1@eztravel.mx+smtp:contabilidad1@EZTravel.onmicrosoft.com+smtp:mariana.iberri@eztravel.mx+smtp:lydia.moreno@eztravel.mx,contabilidad1@eztravel.mx
+Calidad y Auditoria,"Munguía, Eduardo",Eduardo,Munguía,6624766493,6622600580,smtp:calidad3@eztravel.com.mx+SMTP:calidad3@eztravel.mx+smtp:eduardo.munguia@eztravel.mx,calidad3@eztravel.mx
+Personal Travel,"Munguía, Jorge",Jorge,Munguia,,6622600580,smtp:jorge.munguia@eztravel.mx+SMTP:operaciones2@eztravel.mx+smtp:operaciones2@EZTravel.onmicrosoft.com+smtp:operaciones2@eztravel.com.mx,operaciones2@eztravel.mx
+,No Reply EZ Travel,No,Reply,,,SMTP:no-reply@eztravel.mx,no-reply@eztravel.mx
+,Normatividad 1,Normatividad,1,,,SMTP:normatividad1@eztravel.mx,normatividad1@eztravel.mx
+,Normatividad 1,Normatividad,1 hotelspro,,,SMTP:normatividad1@hotelspromexico.com,normatividad1@hotelspromexico.com
+,On-Premises Directory Synchronization Service Account,,,,,,Sync_EZSERVER2_d204d1201d4f@EZTravel.onmicrosoft.com
+,Operaciones 11,Operaciones,11,,,SMTP:operaciones11@eztravel.mx+smtp:operaciones11@EZTravel.onmicrosoft.com+smtp:operaciones11@eztravel.com.mx+smtp:jaime.rivas@eztravel.mx,operaciones11@eztravel.mx
+,Operaciones 14,Operaciones,14,,,SMTP:operaciones14@eztravel.mx+smtp:operaciones14@eztravel.com.mx,operaciones14@eztravel.mx
+,Operaciones 16,Operaciones,16,,,smtp:operaciones16@eztravel.com.mx+SMTP:operaciones16@eztravel.mx+smtp:operaciones1@eztravelboutique.com+smtp:victor.moreno@eztravel.mx,operaciones16@eztravel.mx
+,Operaciones 17,Operaciones,17,,,smtp:virtuoso3@EZTravel.onmicrosoft.com+smtp:gabriela.madrid@eztravel.mx+smtp:virtuoso3@eztravel.com.mx+smtp:operaciones17@eztravel.com.mx+SMTP:operaciones17@eztravel.mx+smtp:virtuoso3@eztravel.mx,operaciones17@eztravel.mx
+,Operaciones 18,Operaciones,18,,,SMTP:operaciones18@eztravel.mx+smtp:operaciones18@EZTravel.onmicrosoft.com+smtp:operaciones18@eztravel.com.mx+smtp:ilse.villegas@eztravel.mx,operaciones18@eztravel.mx
+,Operaciones 20,Operaciones,20,,,smtp:mario.castro@eztravel.mx+smtp:virtuoso6@eztravel.com.mx+smtp:operaciones20@eztravel.com.mx+SMTP:operaciones20@eztravel.mx+smtp:virtuoso6@eztravel.mx+smtp:luisa.ramos@eztravel.mx+smtp:carolina.martinez@eztravel.mx,operaciones20@eztravel.mx
+,Operaciones 21,Operaciones,21,,,smtp:operaciones21@eztravel.com.mx+SMTP:operaciones21@eztravel.mx+smtp:virtuoso7@eztravel.mx+smtp:virtuoso7@eztravel.com.mx+smtp:luisa.fuentes@eztravel.mx,operaciones21@eztravel.mx
+,Operaciones 23,Operaciones,23,,,smtp:grupos2@EZTravel.onmicrosoft.com+smtp:grupos2@eztravel.com.mx+smtp:martin.rico@eztravel.mx+smtp:operaciones23@eztravel.com.mx+SMTP:operaciones23@eztravel.mx+smtp:grupos2@eztravel.mx,operaciones23@eztravel.mx
+,Operaciones 25,Operaciones,25,,,smtp:operaciones17@EZTravel.onmicrosoft.com+SMTP:operaciones25@eztravel.mx+smtp:operaciones25@eztravel.com.mx+smtp:abraham.cruz@eztravel.mx+smtp:jose.velazquez@eztravel.mx+smtp:abel.cordova@eztravel.mx,operaciones25@eztravel.mx
+,Operaciones 26,operaciones,26,,,SMTP:operaciones26@eztravel.mx+smtp:operaciones26@eztravel.com.mx+smtp:gabriela.zurian@eztravel.mx,operaciones26@eztravel.mx
+,Operaciones 27,Operaciones,27,,,SMTP:operaciones27@eztravel.mx+smtp:operaciones27@EZTravel.onmicrosoft.com+smtp:paulina.delarocha@eztravel.mx,operaciones27@eztravel.mx
+,Operaciones 28,Operaciones,28,,,SMTP:operaciones28@eztravel.mx+smtp:operaciones28@EZTravel.onmicrosoft.com+smtp:daniela.lopez@eztravel.mx,operaciones28@eztravel.mx
+,Operaciones 29,Operaciones,29,,,SMTP:operaciones29@eztravel.mx+smtp:operaciones29@EZTravel.onmicrosoft.com+smtp:laura.ciscomani@eztravel.mx,operaciones29@eztravel.mx
+Busisness Travel,"Oviedo, Oscar",Oscar,Oviedo,6622240682,6622600580,SMTP:keyaccounts1@eztravel.mx+smtp:keyaccounts1@EZTravel.onmicrosoft.com+smtp:oscar.oviedo@eztravel.mx+smtp:ooviedo@eztravel.mx+smtp:ooviedo@eztravel.com.mx+smtp:keyaccounts1@eztravel.com.mx,keyaccounts1@eztravel.mx
+,"Padilla, Jesus",Jesus,Padilla,,,SMTP:jesus.padilla@eztravel.mx,jesus.padilla@eztravel.mx
+,"Parra, Luis",Luis,Parra,,,SMTP:lparra@sadec.com.mx+smtp:lparra@EZTravel.onmicrosoft.com+smtp:luis.parra@sadec.com.mx,lparra@sadec.com.mx
+,"Payan, Victoria",Victoria,Payan,,,SMTP:marketing6@eztravel.mx+smtp:marketing6@EZTravel.onmicrosoft.com+smtp:marketing6@eztravel.com.mx+smtp:victoria.payan@eztravel.mx,marketing6@eztravel.mx
+,PBX EZ Travel,PBX,EZ Travel,,,SMTP:pbx@eztravel.mx,pbx@eztravel.mx
+,Practicas 1,Practicas,1,,,SMTP:practicas1@eztravel.mx,practicas1@eztravel.mx
+,Practicas 2,Practicas,2,,,SMTP:practicas2@eztravel.mx,practicas2@eztravel.mx
+,Practicas 3,Practicas,3,,,SMTP:practicas3@eztravel.mx,practicas3@eztravel.mx
+,proveedores 2,proveedores,2,,,SMTP:proveedores2@eztravel.mx,proveedores2@eztravel.mx
+,Proveedores 3,Proveedores,3,,,SMTP:proveedores3@eztravel.mx,proveedores3@eztravel.mx
+,prueba,prueba,,,,SMTP:prueba@eztravel.mx+smtp:prueba@EZTravel.onmicrosoft.com,prueba@eztravel.mx
+Busisness Travel,"Quintana, Gilberto",Gilberto,Quintana,6621027081,6622600580,SMTP:gsc3@eztravel.mx+smtp:gsc3@EZTravel.onmicrosoft.com+smtp:gilberto.quintana@eztravel.mx+smtp:gsc3@eztravel.com.mx,gsc3@eztravel.mx
+,"Ramirez, Alejandra",Alejandra,Ramirez,,,SMTP:alejandra.ramirez@eztravel.mx+smtp:alejandra.ramirez@EZTravel.onmicrosoft.com,alejandra.ramirez@eztravel.mx
+,"Ramirez, Ophelia",Ophelia,Ramirez,,,SMTP:ophelia.ramirez@eztravel.mx,ophelia.ramirez@eztravel.mx
+Personal Travel,"Rascón, Karla",Karla,Rascon,662029873,6622600580,smtp:karla.rascon@eztravel.mx+SMTP:calidad4@eztravel.mx,calidad4@eztravel.mx
+,respaldo celular,respaldo,celular,,,smtp:grupos1@EZTravel.onmicrosoft.com+SMTP:grupos1@eztravel.mx,grupos1@eztravel.mx
+,"Ricco, Miguel",Miguel,Ricco,,,SMTP:MiguelRico@eztravel.mx+smtp:MiguelRico@EZTravel.onmicrosoft.com,MiguelRico@eztravel.mx
+,"Rivera, Mariana",Mariana,Rivera,,,SMTP:operaciones9@eztravel.mx,operaciones9@eztravel.mx
+Calidad y Auditoría,"Rodriguez, Eduardo",Calidad,2,6621153416,6622600580,smtp:eduardo.rodriguez@eztravel.mx+SMTP:calidad2@eztravel.mx,calidad2@eztravel.mx
+,"Rodriguez, Joel",Joel,Rodriguez,,,SMTP:joel.rodriguez@eztravel.mx+smtp:joel.rodriguez@EZTravel.onmicrosoft.com,joel.rodriguez@eztravel.mx
+Comercial,"Romero, Eliab",Eliab,Romero,6624291054,6623505043,smtp:eliab.romero@eztravel.mx+SMTP:comercial1@eztravel.mx+smtp:comercial1@EZTravel.onmicrosoft.com,comercial1@eztravel.mx
+,"Romo, Luis",Luis,Romo,,,SMTP:luis.romo@eztravel.mx+smtp:luis.romo@EZTravel.onmicrosoft.com,luis.romo@eztravel.mx
+,"Ronquillo, Mara",Mara,Ronquillo,,,smtp:mronquillo@EZTravel.onmicrosoft.com+SMTP:mara.ronquillo@eztravel.mx+smtp:mronquillo@eztravel.mx,mara.ronquillo@eztravel.mx
+Direccion ,"Ruiz, Cinthya",Cinthya,Ruiz,6621840492,6622600580,SMTP:cinthya.ruiz@eztravel.mx+smtp:cinthya.ruiz@EZTravel.onmicrosoft.com,cinthya.ruiz@eztravel.mx
+Servicios Administrativos,"Ruiz, Lucero",Lucero,Ruiz,,6622600580,smtp:lucero.ruiz@eztravel.mx+SMTP:egresos1@eztravel.mx,egresos1@eztravel.mx
+,Sala Africa,,,,1072,SMTP:salaafrica@eztravel.mx,salaafrica@eztravel.mx
+,Sala America,,,,1070,SMTP:salaamerica@eztravel.mx,salaamerica@eztravel.mx
+,Sala Antartida,,,,1048,smtp:juntas1@EZTravel.onmicrosoft.com+smtp:juntas1@eztravel.mx+SMTP:salaantartida@eztravel.mx,juntas1@eztravel.mx
+,Sala Asia,,,,1049,smtp:juntas2@eztravel.mx+SMTP:salaasia@eztravel.mx,juntas2@eztravel.mx
+,Sala Europa,,,,1071,SMTP:salaeuropa@eztravel.mx,salaeuropa@eztravel.mx
+,Sala Oceania,,,,1073,SMTP:salaoceania@eztravel.mx,salaoceania@eztravel.mx
+Busisness Travel,"Salas, Lourdes",Lourdes,Salas,6623177657,6622600580,SMTP:keyaccounts2@eztravel.mx+smtp:keyaccounts2@EZTravel.onmicrosoft.com+smtp:keyaccounts2@eztravel.com.mx+smtp:lourdes.salas@eztravel.mx,keyaccounts2@eztravel.mx
+Asociado,"Santos, Andrés",Andres,Santos,552711 3215,662260 0580,smtp:andres.santos@EZTravel.onmicrosoft.com+SMTP:andres.santos@eztravel.mx,andres.santos@eztravel.mx
+Personal Travel,"Seaman, Ilse",Ilse,Seaman,6624766496,6622600580,smtp:operaciones24@eztravel.com.mx+SMTP:operaciones24@eztravel.mx+smtp:ilse.seaman@eztravel.mx,operaciones24@eztravel.mx
+,"Sierra, Mariana",Mariana,Sierra,,,SMTP:sdpt@hotelspromexico.com+smtp:sdpt@EZTravel.onmicrosoft.com,sdpt@hotelspromexico.com
+,"Sierra, Mariana",Mariana,Sierra,6624710835,6622600580,smtp:gsc2@EZTravel.onmicrosoft.com+smtp:mariana.sierra@eztravel.mx+smtp:gsc2@eztravel.com.mx+smtp:gsc2@eztravel.mx+SMTP:sdec@eztravel.mx+smtp:sdpt@eztravel.mx+smtp:proveedores1@eztravel.mx+smtp:proveedores1@eztravel.com.mx,sdec@eztravel.mx
+Trafico,"Siqueiros, Denisse",Denisse,Siqueiros,6622449120,6622600580,smtp:denisse.siqueiros@eztravel.mx+SMTP:trafico5@eztravel.mx,trafico5@eztravel.mx
+,"StClair, Bere",Bere,StClair,,,SMTP:bere.stclair@eztravel.mx,bere.stclair@eztravel.mx
+Finanzas,"Tamayo, Gerardo",Gerardo,Tamayo,6623177814,6621532383,smtp:Gerardo.tamayo@eztravel.mx+SMTP:contraloria1@eztravel.mx+smtp:contraloria1@EZTravel.onmicrosoft.com+smtp:contraloria1@eztravel.com.mx+smtp:alejandro.campero@eztravel.mx,contraloria1@eztravel.mx
+,"Tapia, Tatis",Tatis,Tapia,,,SMTP:tatis.tapia@eztravel.mx,tatis.tapia@eztravel.mx
+,Tecnologia 3,Brandon,3,,,SMTP:tecnologia3@eztravel.mx+smtp:tecnologia3@EZTravel.onmicrosoft.com+smtp:brandon.betamen@eztravel.mx+smtp:tecnologia3@eztravel.com.mx,tecnologia3@eztravel.mx
+,Tecnologia 4,Tecnologia,4,,,SMTP:tecnologia4@eztravel.mx+smtp:tecnologia4@EZTravel.onmicrosoft.com+smtp:carlos.robles@eztravel.mx+smtp:tecnologia4@eztravel.com.mx,tecnologia4@eztravel.mx
+Direccion ,"Teran, Horacio",Horacio,Teran,6622335734,6622600580,smtp:hteran@EZTravel.onmicrosoft.com+SMTP:horacio.teran@eztravel.mx+smtp:hteran@eztravel.mx+smtp:hteran@eztravel.com.mx,horacio.teran@eztravel.mx
+,"Teran, Paulina",Paulina,Teran,,,smtp:paulina.teran@EZTravel.onmicrosoft.com+SMTP:paulina.teran@eztravel.mx,paulina.teran@eztravel.mx
+,Trafico 4,Trafico,4,,,SMTP:trafico4@eztravel.mx,trafico4@eztravel.mx
+,Trafico 7,Trafico,7,,,SMTP:trafico7@eztravel.mx,trafico7@eztravel.mx
+,trafico.com.mx,trafico,,,,SMTP:trafico@eztravel.com.mx,trafico@eztravel.com.mx
+,Travel Docs BT,Travel Docs,BT,,,smtp:itinerarioska@EZTravel.onmicrosoft.com+smtp:itinerarioska@eztravel.com.mx+SMTP:traveldocsbt@eztravel.mx+smtp:itinerarioska@eztravel.mx,traveldocsbt@eztravel.mx
+,Travel Docs PT,Travel Docs,PT,,,SMTP:traveldocspt@eztravel.mx+smtp:traveldocspt@EZTravel.onmicrosoft.com,traveldocspt@eztravel.mx
+Personal Travel ,"Valenzuela, Elmer",Elmer,Valenzuela,6624333660,6622600580,smtp:elmer.valenzuela@eztravel.com.mx+SMTP:operaciones8@eztravel.mx+smtp:operaciones8@EZTravel.onmicrosoft.com+smtp:elmer.valenzuela@eztravel.mx+smtp:operaciones8@eztravel.com.mx,operaciones8@eztravel.mx
+,"Valenzuela, Elmer",Elmer,Valenzuela,,,SMTP:operaciones8@hotelspromexico.com+smtp:operaciones82152@EZTravel.onmicrosoft.com,operaciones8@hotelspromexico.com
+,Veronica Herrera,Veronica,Herrera,,,SMTP:veronica.herrera@eztraveluxe.com+smtp:veronica.herrera@EZTravel.onmicrosoft.com,veronica.herrera@eztraveluxe.com
+Calidad & Auditoria,"Villegas, Karla",Karla,Villegas,6624710184,662 260 0580,smtp:karla.villegas@eztravel.mx+smtp:calidad6@EZTravel.onmicrosoft.com+SMTP:calidad6@eztravel.mx,calidad6@eztravel.mx
+,"Zamora, Miriam",Miriam,Zamora,,,smtp:miriam.zamora@EZTravel.onmicrosoft.com+SMTP:miriam.zamora@eztraveluxe.com,miriam.zamora@eztraveluxe.com
+,"Zazueta, Claudia",Claudia,Zazueta,,,SMTP:Claudia.Zazueta@eztraveluxe.com+smtp:Claudia.Zazueta@EZTravel.onmicrosoft.com,Claudia.Zazueta@eztraveluxe.com
+Trafico,"Zuarth, Irving",Irving,Zuarth,6624301308,6622600580,SMTP:trafico3@eztravel.mx+smtp:trafico3@EZTravel.onmicrosoft.com+smtp:irving.zuarth@eztravel.mx+smtp:trafico3@eztravel.com.mx,trafico3@eztravel.mx
